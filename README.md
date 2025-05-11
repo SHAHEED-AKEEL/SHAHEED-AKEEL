@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shaheed Akeel</h1>
 <h3 align="center">🔬 Aspiring Data Scientist | Turning Data into Insights| Exploring ML & AI</h3>
-<pre hello 
-siraj1 </pre>
+
 
 
 <p align="center">
